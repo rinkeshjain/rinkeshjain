@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rinkesh
 
-- 🔭 I’m currently working with Calibo[https://www.calibo.com]
+- 🔭 I’m currently working with [Calibo](https://www.calibo.com)
 - 🌱 I’m currently learning Android, Flutter, React JS
 - 👯 I’m looking to collaborate on Open Source project
 - 💬 Ask me about ...............
